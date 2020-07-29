@@ -7,7 +7,7 @@ Onde você pode me encontrar?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RaquelBenington)](https://www.linkedin.com/in/raquelbennington/)
 
 <p align="center">
-  <img src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg">
+  <img src="https://drive.google.com/file/d/1kqPbh5v-R6f5XgoGnU5mZoHNWfle7P6k/view?usp=sharing">
 </p>
 
 The future is female coders
