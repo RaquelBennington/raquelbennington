@@ -1,5 +1,5 @@
-:octocat: # Hello World 
-
+:octocat:
+# Hello World 
 Meu nome é Raquel, sou Desenvolvedora Front-end e ex-aluna da Reprograma. Compartilho por aqui meus aprendizados, faço deste espaço meu laboratório pessoal.
 
 Onde você pode me encontrar?
@@ -11,7 +11,7 @@ Onde você pode me encontrar?
   <img src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg">
 </p>
 
-##The future is female coders
+# The future is female coders
 
 <!--
 **RaquelBennington/raquelbennington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
